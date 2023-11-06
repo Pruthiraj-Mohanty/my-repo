@@ -1,2 +1,2 @@
 # my-repo
-This is a demo for git &amp; github
+This is a Demo for Git &amp; Github class.
